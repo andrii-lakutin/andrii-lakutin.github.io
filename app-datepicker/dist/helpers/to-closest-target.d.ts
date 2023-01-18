@@ -1,0 +1,2 @@
+export declare function toClosestTarget<Target extends HTMLElement, TargetEvent extends Event = Event>(event: TargetEvent, selector: string): Target | undefined;
+//# sourceMappingURL=to-closest-target.d.ts.map
